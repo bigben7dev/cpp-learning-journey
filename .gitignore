@@ -1,0 +1,43 @@
+
+# Compiled C++ executables
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+*.a
+*.lib
+
+# Debug and build directories
+build/
+bin/
+obj/
+Debug/
+Release/
+
+# Debugging files
+*.pdb
+*.ilk
+*.gch
+
+# CMake generated files
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor temporary files
+*.swp
+*.swo
